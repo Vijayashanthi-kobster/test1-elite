@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="293" started-at="2019-07-23T12:53:58Z" finished-at="2019-07-23T12:53:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="293" started-at="2019-07-23T12:53:58Z" finished-at="2019-07-23T12:53:58Z">
+      <class name="helloworld.Basicjava">
+        <test-method status="PASS" signature="positiveflow()[pri:1, instance:helloworld.Basicjava@50c87b21]" name="positiveflow" duration-ms="28" started-at="2019-07-23T12:53:58Z" finished-at="2019-07-23T12:53:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveflow -->
+      </class> <!-- helloworld.Basicjava -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
